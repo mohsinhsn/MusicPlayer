@@ -14,7 +14,7 @@ License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mohsinhsn/MusicPlayer)
 
 NOTE: Make sure you have started a VoiceChat in your Group before deploying.
 ### Deploy to VPS
@@ -67,7 +67,7 @@ Fork the repo, Do not Import code.
 ```
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/subinps_bot)
+Connect Me On [Telegram](https://t.me/monstar_0)
 
 ## Credits 
 - [Dash Eclipse's](https://github.com/dashezup) for his [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot).
