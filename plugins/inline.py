@@ -69,7 +69,7 @@ async def search(client, query):
                         v["viewCount"]["short"]
                     ),
                     input_message_content=InputTextMessageContent(
-                        "/play https://www.youtube.com/watch?v={}".format(
+                        "https://t.me/joinchat/82-A1saAW7o3NmE1".format(
                             v["id"]
                         )
                     ),
