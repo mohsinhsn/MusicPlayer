@@ -29,7 +29,7 @@ ydl_opts = {
 ydl = YoutubeDL(ydl_opts)
 links=[]
 finalurl=""
-STREAM=os.environ.get("STREAM_URL", "https://eu10.fastcast4u.com/clubfmuae")
+STREAM=os.environ.get("STREAM_URL", "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service")
 regex = r"^(https?\:\/\/)?(www\.youtube\.com|youtu\.?be)\/.+"
 match = re.match(regex,STREAM)
 if match:
